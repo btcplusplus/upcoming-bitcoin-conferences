@@ -4,7 +4,7 @@ Bitcoin++ is a developer-focused conference series dedicated to advancing Bitcoi
 
 Since its inception in June 2022, Bitcoin++ has hosted events in global tech hubs, including Austin, Mexico City, Berlin, and Buenos Aires. Each conference centers on specific themes such as on-chain privacy, Layer 2 solutions, and e-cash, attracting experts, educators, and builders from the Bitcoin ecosystem to share insights and onboard developers and users. 
 
-For more information on upcoming events, past conferences, and resources, visit the official Bitcoin++ website at https://btcpp.dev/. Stay updated by following their Twitter account and exploring their YouTube channel for recorded sessions and additional content.
+For more information on upcoming events, past conferences, and resources, visit the official Bitcoin++ website at https://btcpp.dev/. 
 
 ## Upcoming Conferences:
 ### hackathon Edition - Florianopolis, Brasil - Feb 19 - 22, 2025
