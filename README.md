@@ -12,33 +12,33 @@ The Bitcoin network never goes down, and neither do its builders. Join us in Feb
 * [Get your tickets](https://btcpp.dev/conf/floripa)
 * [Apply to Volunteer](https://ykdl62lcpgz.typeform.com/to/KPf0zWvv) 
 * [Apply to Present a workshop](https://ykdl62lcpgz.typeform.com/btcpp-floripa)
-* [Sponsorship Opportunities](https://ykdl62lcpgz.typeform.com/to/FmRbuEns)
+* [Sponsorship Opportunities](https://www.cognitoforms.com/Btcplusplus/SponsorshipInquiry)
 ### mempools + mining Edition - Austin, Texas - May 7 - 9, 2025
 Bitcoin transactions get made but how do they get into blocks? What is this "policy" that everyone seems to be talking about? Join us in Austin Spring 2025 to delve deep into how our transactions move through time and space to reach the next block.
 * [Get your tickets](https://btcpp.dev/conf/atx25)
 * [Apply to Volunteer](https://ykdl62lcpgz.typeform.com/to/iztPpYwC) 
 * [Apply to Lecture](https://ykdl62lcpgz.typeform.com/btcpp-atx25)
-* [Sponsorship Opportunities](https://ykdl62lcpgz.typeform.com/to/FmRbuEns)
+* [Sponsorship Opportunities](https://www.cognitoforms.com/Btcplusplus/SponsorshipInquiry)
 ### freedom Edition - Riga, Latvia - August 2025
 * [Get your tickets](https://btcpp.dev/)
 * [Apply to Volunteer](https://ykdl62lcpgz.typeform.com/to/xjjI92OT) 
 * [Apply to Lecture](https://ykdl62lcpgz.typeform.com/to/FvESMH0H)
-* [Sponsorship Opportunities](https://ykdl62lcpgz.typeform.com/to/FmRbuEns)
+* [Sponsorship Opportunities](https://www.cognitoforms.com/Btcplusplus/SponsorshipInquiry)
 ### lightning++ edition - Berlin, Germany - October 2025
 * [Get your tickets](https://btcpp.dev)
 * [Apply to Volunteer](https://ykdl62lcpgz.typeform.com/to/xjjI92OT) 
 * [Apply to Lecture](https://ykdl62lcpgz.typeform.com/to/FvESMH0H)
-* [Sponsorship Opportunities](https://ykdl62lcpgz.typeform.com/to/FmRbuEns)
+* [Sponsorship Opportunities](https://www.cognitoforms.com/Btcplusplus/SponsorshipInquiry)
 ### scaling (zk + L2s) edition - Istanbul, Turkiye - September 2025
 * [Get your tickets](https://btcpp.dev)
 * [Apply to Volunteer](https://ykdl62lcpgz.typeform.com/to/xjjI92OT) 
 * [Apply to Lecture](https://ykdl62lcpgz.typeform.com/to/FvESMH0H)
-* [Sponsorship Opportunities](https://ykdl62lcpgz.typeform.com/to/FmRbuEns)
+* [Sponsorship Opportunities](https://www.cognitoforms.com/Btcplusplus/SponsorshipInquiry)
 ### sovereignty edition - Taipei, Taiwan - December 2025
 * [Get your tickets](https://btcpp.dev/)
 * [Apply to Volunteer](https://ykdl62lcpgz.typeform.com/to/xjjI92OT) 
 * [Apply to Lecture](https://ykdl62lcpgz.typeform.com/to/FvESMH0H)
-* [Sponsorship Opportunities](https://ykdl62lcpgz.typeform.com/to/FmRbuEns)
+* [Sponsorship Opportunities](https://www.cognitoforms.com/Btcplusplus/SponsorshipInquiry)
 
 ## Past Conferences:
 * Bootstrapping Bitcoin Dev - Austin, TX - June 2022 - [View Videos](https://www.youtube.com/watch?v=gI6CeAGhFjE&list=PLHhfnB1Uefkolyc9z03BKsWsnzvZoKYKf)
