@@ -8,11 +8,13 @@ For more information on upcoming events, past conferences, and resources, visit 
 
 ## Upcoming Conferences:
 ### hackathon Edition - Florianopolis, Brasil - Feb 19 - 22, 2025
+The Bitcoin network never goes down, and neither do its builders. Join us in February down in one of Brazil's nicest beach towns to make friends, build something cool, and get to know the local Brazilian builders community.
 * [Get your tickets](https://btcpp.dev/conf/floripa)
 * [Volunteer](https://ykdl62lcpgz.typeform.com/to/KPf0zWvv) 
 * [Present a workshop](https://ykdl62lcpgz.typeform.com/btcpp-floripa)
 * [Sponsor](mailto:sponsor@btcpp.dev)
 ### mempools + mining Edition - Austin, Texas - May 7 - 9, 2025
+Bitcoin transactions get made but how do they get into blocks? What is this "policy" that everyone seems to be talking about? Join us in Austin Spring 2025 to delve deep into how our transactions move through time and space to reach the next block.
 * [Get your tickets](https://btcpp.dev/conf/atx25)
 * [Volunteer](https://ykdl62lcpgz.typeform.com/to/iztPpYwC) 
 * [Lecture](https://ykdl62lcpgz.typeform.com/btcpp-atx25)
