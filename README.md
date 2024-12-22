@@ -7,12 +7,20 @@ Since its inception in June 2022, Bitcoin++ has hosted events in global tech hub
 For more information on upcoming events, past conferences, and resources, visit the official Bitcoin++ website at https://btcpp.dev/. Stay updated by following their Twitter account and exploring their YouTube channel for recorded sessions and additional content.
 
 ## Upcoming Conferences:
-* hackathon Edition - Florianopolis, Brasil - Feb 19 - 22, 2025 - https://btcpp.dev/conf/floripa
-* mempools + mining Edition - Austin, Texas - May 7 - 9, 2025 - https://btcpp.dev/conf/atx25
-* freedom Edition - Riga, Latvia - August 2025
-* lightning++ edition - Berlin, Germany - October 2025
-* scaling (zk + L2s) edition - Istanbul, Turkiye - September 2025
-* sovereignty edition - Taipei, Taiwan - December 2025
+### hackathon Edition - Florianopolis, Brasil - Feb 19 - 22, 2025
+* [Get your tickets](https://btcpp.dev/conf/floripa)
+* [Volunteer](https://ykdl62lcpgz.typeform.com/to/KPf0zWvv) 
+* [Present a workshop](https://ykdl62lcpgz.typeform.com/btcpp-floripa)
+* [Sponsor](mailto:sponsor@btcpp.dev)
+### mempools + mining Edition - Austin, Texas - May 7 - 9, 2025
+* [Get your tickets](https://btcpp.dev/conf/atx25)
+* [Volunteer](https://ykdl62lcpgz.typeform.com/to/iztPpYwC) 
+* [Lecture](https://ykdl62lcpgz.typeform.com/btcpp-atx25)
+* [Sponsor](mailto:sponsor@btcpp.dev)
+### freedom Edition - Riga, Latvia - August 2025
+### lightning++ edition - Berlin, Germany - October 2025
+### scaling (zk + L2s) edition - Istanbul, Turkiye - September 2025
+### sovereignty edition - Taipei, Taiwan - December 2025
 
 
 
