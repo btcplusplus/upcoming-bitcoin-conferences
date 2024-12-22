@@ -40,12 +40,13 @@ Bitcoin transactions get made but how do they get into blocks? What is this "pol
 * [Apply to Lecture](https://ykdl62lcpgz.typeform.com/to/FvESMH0H)
 * [Sponsor](mailto:sponsor@btcpp.dev)
 
+## 
 ## Past Conferences:
 * Bootstrapping Bitcoin Dev - Austin, TX - June 2022 - [View Videos](https://www.youtube.com/watch?v=gI6CeAGhFjE&list=PLHhfnB1Uefkolyc9z03BKsWsnzvZoKYKf)
 * Onchain Privacy - CDMX - December 2022 - [View Videos](https://www.youtube.com/watch?v=kCON4wuecOw&list=PLHhfnB1Uefkor98E-ikci_sUtUKKYYSDA)
-* Layer 2s - Austin, TX - April 2023 - [Agenda](https://btcpp.dev/static/atx23) - [Videos](www.youtube.com/@btcplusplus/videos)
-* nix-bitcoin - Berlin Germany - October 2023 - [Agenda](https://btcpp.dev/conf/berlin23) - [Videos](www.youtube.com/@btcplusplus/videos)
-* Payments - Buenos Aires Argentina - February 2024 - [Agenda](https://btcpp.dev/conf/ba24) - [Videos](www.youtube.com/@btcplusplus/videos)
-* Script - Austin, TX - May 2024 - [Agenda](https://btcpp.dev/conf/atx24) - [Videos](www.youtube.com/@btcplusplus/videos)
-* ecash - Berlin Germany - October 2024 - [Agenda](https://btcpp.dev/conf/berlin24) - [Videos](www.youtube.com/@btcplusplus/videos)
+* Layer 2s - Austin, TX - April 2023 - [Agenda](https://btcpp.dev/static/atx23) - [Videos](https://www.youtube.com/@btcplusplus/videos)
+* nix-bitcoin - Berlin Germany - October 2023 - [Agenda](https://btcpp.dev/conf/berlin23) - [Videos](https://www.youtube.com/@btcplusplus/videos)
+* Payments - Buenos Aires Argentina - February 2024 - [Agenda](https://btcpp.dev/conf/ba24) - [Videos](https://www.youtube.com/@btcplusplus/videos)
+* Script - Austin, TX - May 2024 - [Agenda](https://btcpp.dev/conf/atx24) - [Videos](https://www.youtube.com/@btcplusplus/videos)
+* ecash - Berlin Germany - October 2024 - [Agenda](https://btcpp.dev/conf/berlin24) - [Videos](https://www.youtube.com/@btcplusplus/videos)
 
