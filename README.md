@@ -10,34 +10,34 @@ For more information on upcoming events, past conferences, and resources, visit 
 ### hackathon Edition - Florianopolis, Brasil - Feb 19 - 22, 2025
 The Bitcoin network never goes down, and neither do its builders. Join us in February down in one of Brazil's nicest beach towns to make friends, build something cool, and get to know the local Brazilian builders community.
 * [Get your tickets](https://btcpp.dev/conf/floripa)
-* [Volunteer](https://ykdl62lcpgz.typeform.com/to/KPf0zWvv) 
-* [Present a workshop](https://ykdl62lcpgz.typeform.com/btcpp-floripa)
+* [Apply to Volunteer](https://ykdl62lcpgz.typeform.com/to/KPf0zWvv) 
+* [Apply to Present a workshop](https://ykdl62lcpgz.typeform.com/btcpp-floripa)
 * [Sponsor](mailto:sponsor@btcpp.dev)
 ### mempools + mining Edition - Austin, Texas - May 7 - 9, 2025
 Bitcoin transactions get made but how do they get into blocks? What is this "policy" that everyone seems to be talking about? Join us in Austin Spring 2025 to delve deep into how our transactions move through time and space to reach the next block.
 * [Get your tickets](https://btcpp.dev/conf/atx25)
-* [Volunteer](https://ykdl62lcpgz.typeform.com/to/iztPpYwC) 
-* [Lecture](https://ykdl62lcpgz.typeform.com/btcpp-atx25)
+* [Apply to Volunteer](https://ykdl62lcpgz.typeform.com/to/iztPpYwC) 
+* [Apply to Lecture](https://ykdl62lcpgz.typeform.com/btcpp-atx25)
 * [Sponsor](mailto:sponsor@btcpp.dev)
 ### freedom Edition - Riga, Latvia - August 2025
 * [Get your tickets](https://btcpp.dev/)
-* [Volunteer](https://ykdl62lcpgz.typeform.com/to/xjjI92OT) 
-* [Lecture](https://ykdl62lcpgz.typeform.com/to/FvESMH0H)
+* [Apply to Volunteer](https://ykdl62lcpgz.typeform.com/to/xjjI92OT) 
+* [Apply to Lecture](https://ykdl62lcpgz.typeform.com/to/FvESMH0H)
 * [Sponsor](mailto:sponsor@btcpp.dev)
 ### lightning++ edition - Berlin, Germany - October 2025
 * [Get your tickets](https://btcpp.dev)
-* [Volunteer](https://ykdl62lcpgz.typeform.com/to/xjjI92OT) 
-* [Lecture](https://ykdl62lcpgz.typeform.com/to/FvESMH0H)
+* [Apply to Volunteer](https://ykdl62lcpgz.typeform.com/to/xjjI92OT) 
+* [Apply to Lecture](https://ykdl62lcpgz.typeform.com/to/FvESMH0H)
 * [Sponsor](mailto:sponsor@btcpp.dev)
 ### scaling (zk + L2s) edition - Istanbul, Turkiye - September 2025
 * [Get your tickets](https://btcpp.dev)
-* [Volunteer](https://ykdl62lcpgz.typeform.com/to/xjjI92OT) 
-* [Lecture](https://ykdl62lcpgz.typeform.com/to/FvESMH0H)
+* [Apply to Volunteer](https://ykdl62lcpgz.typeform.com/to/xjjI92OT) 
+* [Apply to Lecture](https://ykdl62lcpgz.typeform.com/to/FvESMH0H)
 * [Sponsor](mailto:sponsor@btcpp.dev)
 ### sovereignty edition - Taipei, Taiwan - December 2025
 * [Get your tickets](https://btcpp.dev/)
-* [Volunteer](https://ykdl62lcpgz.typeform.com/to/xjjI92OT) 
-* [Lecture](https://ykdl62lcpgz.typeform.com/to/FvESMH0H)
+* [Apply to Volunteer](https://ykdl62lcpgz.typeform.com/to/xjjI92OT) 
+* [Apply to Lecture](https://ykdl62lcpgz.typeform.com/to/FvESMH0H)
 * [Sponsor](mailto:sponsor@btcpp.dev)
 
 ## Past Conferences:
