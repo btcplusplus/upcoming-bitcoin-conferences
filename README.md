@@ -20,12 +20,25 @@ Bitcoin transactions get made but how do they get into blocks? What is this "pol
 * [Lecture](https://ykdl62lcpgz.typeform.com/btcpp-atx25)
 * [Sponsor](mailto:sponsor@btcpp.dev)
 ### freedom Edition - Riga, Latvia - August 2025
+* [Get your tickets](https://btcpp.dev/)
+* [Volunteer](https://ykdl62lcpgz.typeform.com/to/xjjI92OT) 
+* [Lecture](https://ykdl62lcpgz.typeform.com/to/FvESMH0H)
+* [Sponsor](mailto:sponsor@btcpp.dev)
 ### lightning++ edition - Berlin, Germany - October 2025
+* [Get your tickets](https://btcpp.dev)
+* [Volunteer](https://ykdl62lcpgz.typeform.com/to/xjjI92OT) 
+* [Lecture](https://ykdl62lcpgz.typeform.com/to/FvESMH0H)
+* [Sponsor](mailto:sponsor@btcpp.dev)
 ### scaling (zk + L2s) edition - Istanbul, Turkiye - September 2025
+* [Get your tickets](https://btcpp.dev)
+* [Volunteer](https://ykdl62lcpgz.typeform.com/to/xjjI92OT) 
+* [Lecture](https://ykdl62lcpgz.typeform.com/to/FvESMH0H)
+* [Sponsor](mailto:sponsor@btcpp.dev)
 ### sovereignty edition - Taipei, Taiwan - December 2025
-
-
-
+* [Get your tickets](https://btcpp.dev/)
+* [Volunteer](https://ykdl62lcpgz.typeform.com/to/xjjI92OT) 
+* [Lecture](https://ykdl62lcpgz.typeform.com/to/FvESMH0H)
+* [Sponsor](mailto:sponsor@btcpp.dev)
 
 ## Past Conferences:
 * Bootstrapping Bitcoin Dev - Austin, TX - June 2022 - [View Videos](https://www.youtube.com/watch?v=gI6CeAGhFjE&list=PLHhfnB1Uefkolyc9z03BKsWsnzvZoKYKf)
