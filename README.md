@@ -19,13 +19,9 @@ Bitcoin transactions get made but how do they get into blocks? What is this "pol
 * [Speaker's Application](https://www.cognitoforms.com/Btcplusplus/SpeakersPresentationApplication)
 * [Sponsorship Opportunities](https://www.cognitoforms.com/Btcplusplus/SponsorshipInquiry)
 * [Volunteer's Application](https://www.cognitoforms.com/Btcplusplus/VolunteerApplication) 
+
 ### freedom Edition - Riga, Latvia - August 2025
 * [Get your tickets](https://btcpp.dev/)
-* [Speaker's Application](https://www.cognitoforms.com/Btcplusplus/SpeakersPresentationApplication)
-* [Sponsorship Opportunities](https://www.cognitoforms.com/Btcplusplus/SponsorshipInquiry)
-* [Volunteer's Application](https://www.cognitoforms.com/Btcplusplus/VolunteerApplication) 
-### lightning++ edition - Berlin, Germany - October 2025
-* [Get your tickets](https://btcpp.dev)
 * [Speaker's Application](https://www.cognitoforms.com/Btcplusplus/SpeakersPresentationApplication)
 * [Sponsorship Opportunities](https://www.cognitoforms.com/Btcplusplus/SponsorshipInquiry)
 * [Volunteer's Application](https://www.cognitoforms.com/Btcplusplus/VolunteerApplication) 
@@ -34,6 +30,12 @@ Bitcoin transactions get made but how do they get into blocks? What is this "pol
 * [Speaker's Application](https://www.cognitoforms.com/Btcplusplus/SpeakersPresentationApplication)
 * [Sponsorship Opportunities](https://www.cognitoforms.com/Btcplusplus/SponsorshipInquiry)
 * [Volunteer's Application](https://www.cognitoforms.com/Btcplusplus/VolunteerApplication) 
+### lightning++ edition - Berlin, Germany - October 2025
+* [Get your tickets](https://btcpp.dev)
+* [Speaker's Application](https://www.cognitoforms.com/Btcplusplus/SpeakersPresentationApplication)
+* [Sponsorship Opportunities](https://www.cognitoforms.com/Btcplusplus/SponsorshipInquiry)
+* [Volunteer's Application](https://www.cognitoforms.com/Btcplusplus/VolunteerApplication) 
+
 ### sovereignty edition - Taipei, Taiwan - December 2025
 * [Get your tickets](https://btcpp.dev/)
 * [Speaker's Application](https://www.cognitoforms.com/Btcplusplus/SpeakersPresentationApplication)
